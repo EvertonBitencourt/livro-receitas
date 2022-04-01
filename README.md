@@ -1,3 +1,5 @@
-#Livro de Receitas#
-Ol· Bem vindo ao livro de receitas!
+# Livro de Receitas #
+Ol√° Bem vindo ao livro de receitas!
+
  -  Strogonoff de Frango
+ -  Receita Pave
